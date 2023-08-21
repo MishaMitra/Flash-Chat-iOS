@@ -1,9 +1,9 @@
-![Banner](MikhailKuznetsov_Dev_01.png)
+![Banner](Documentation/MikhailKuznetsov_Dev_01.png)
 
 # Flash-Chat
 
 
-## What is learned
+## What is learned  :space_invader:
 
 * How to integrate third party libraries in your app using Cocoapods and Swift Package Manager.
 * How to store data in the cloud using Firebase Firestore.
@@ -18,4 +18,8 @@
 * How to create direct Segues for navigation.
 
 
-![End Banner](Documentation/readme-end-banner.png)
+
+<img src="Documentation/Flash_1.png" width="300">
+
+<img src="Documentation/Flash_2.png" width="300">
+
